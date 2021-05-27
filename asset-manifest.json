@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robo-react/static/css/main.f6d5690b.chunk.css",
+    "main.js": "/robo-react/static/js/main.64fe778e.chunk.js",
+    "main.js.map": "/robo-react/static/js/main.64fe778e.chunk.js.map",
+    "runtime-main.js": "/robo-react/static/js/runtime-main.d75489d0.js",
+    "runtime-main.js.map": "/robo-react/static/js/runtime-main.d75489d0.js.map",
+    "static/js/2.1abfd7e6.chunk.js": "/robo-react/static/js/2.1abfd7e6.chunk.js",
+    "static/js/2.1abfd7e6.chunk.js.map": "/robo-react/static/js/2.1abfd7e6.chunk.js.map",
+    "static/js/3.8fef5de1.chunk.js": "/robo-react/static/js/3.8fef5de1.chunk.js",
+    "static/js/3.8fef5de1.chunk.js.map": "/robo-react/static/js/3.8fef5de1.chunk.js.map",
+    "index.html": "/robo-react/index.html",
+    "static/css/main.f6d5690b.chunk.css.map": "/robo-react/static/css/main.f6d5690b.chunk.css.map",
+    "static/js/2.1abfd7e6.chunk.js.LICENSE.txt": "/robo-react/static/js/2.1abfd7e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d75489d0.js",
+    "static/js/2.1abfd7e6.chunk.js",
+    "static/css/main.f6d5690b.chunk.css",
+    "static/js/main.64fe778e.chunk.js"
+  ]
+}
